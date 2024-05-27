@@ -1,179 +1,3 @@
-501#
-赤ハーブをすり下ろして作った体力回復剤。^000088HPを45ほど回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777777^000000
-#
-502#
-赤ハーブと黄ハーブをすり下ろして作った体力回復剤。^000088HPを105ほど回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^77777710^000000
-#
-503#
-黄ハーブをすり下ろして作った体力回復剤。^000088HPを175ほど回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^77777713^000000
-#
-504#
-白ハーブをすり下ろして作った体力回復剤。^000088HPを325ほど回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^77777715^000000
-#
-505#
-青ハーブをすり下ろして作った精神力回復剤。^000088SPを60ほど回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^77777715^000000
-#
-507#
-傷の治療に効き目があると言う大事な薬草。少量のHPを回復する事ができる。
-^ffffff_^000000
-重量 : ^7777773^000000
-#
-508#
-傷の治療に大きな効き目があると言う大事な薬草。^000088少量のHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777775^000000
-#
-509#
-傷の治療にかなり高い効き目があると言う大事な薬草。^000088少量のHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777777^000000
-#
-510#
-精神を再充電できる特異な香りを持っている、大事な薬草。^000088少量のSPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777777^000000
-#
-511#
-数々の毒を消してくれる薬草。 ^000088毒^000000を治療する事ができる。
-^ffffff_^000000
-重量 : ^7777773^000000
-#
-512#
-甘くていい香りの果物。^000088少量のHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777772^000000
-#
-513#
-甘くて美味しい異国の果物。^000088少量のHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777772^000000
-#
-514#
-いい香りで酸っぱい味の果物。^000088少量のSPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777772^000000
-#
-515#
-赤い色の野菜。甘くて特異な香りがあり、おかずの材料に使う。^000088少量のHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777772^000000
-#
-516#
-紫色の根。でんぷんが多く、甘くて食用に使う。^000088少量のHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777772^000000
-#
-517#
-良く焼いた肉。美味そう。^000088少量のHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^77777715^000000
-#
-518#
-甘くてべとべとする液体。栄養たっぷりで食用でも薬用でも使う。^000088少量のHPとSPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^77777710^000000
-#
-519#
-乳牛の乳を殺菌した後、加工した飲み物。子供たちの成長期や、栄養食品として良い。^000088少量のHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777773^000000
-#
-520#
-ヒナレと言う花の葉。さわやかな香りの葉は傷の痛みを忘れるようにして、体力を回復してくれる。^000088かなりのHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777771^000000
-#
-521#
-アロエと言う植物の葉を取り切って集めたもの。^000088かなりのHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777772^000000
-#
-522#
-マステラの木から取った良く塾した実。紫色の魅力的な光を出す、さわやかな果物。^000088大量のHPを回復^000000する事ができる。
-^ffffff_^000000
-重量 : ^7777773^000000
-#
-523#
-聖霊に使うための祝福を与えた水。^000088呪い^000000を治療する事ができる。
-^ffffff_^000000
-重量 : ^7777773^000000
-#
-525#
-状態異常を回復してくれる神秘的な薬。
-―――――――――――――
-^000088毒・沈黙・暗黒・呪い・
-混乱・幻覚を回復。^000000
-―――――――――――――
-^ffffff_^000000
-重量 : ^77777710^000000
-#
-526#
-蜜バチからの蜜を集めて
-作った物。女王バチのエサで
-体にすごく良い。
-―――――――――――――
-^000088毒・沈黙・暗黒・呪い・
-混乱・幻覚を回復^000000
-^000088HP・SP回復^000000
-―――――――――――――
-^ffffff_^000000
-重量 : ^77777715^000000
-#
-528#
-化け物たちの大好物。^000088少量のHPが回復する。^000000
-^ffffff_^000000
-重量 : ^77777715^000000
-#
-529#
-甘くて美味しいキャンディ。^000088HPを45ほど回復^000000してくれる。
-^ffffff_^000000
-重量 : ^7777773^000000
-#
-530#
-ステッキ型のキャンディ。^000088HPを105ほど回復^000000してくれる。
-^ffffff_^000000
-重量 : ^7777774^000000
-#
-531#
-リンゴの果汁を瓶に詰めた物。飲みやすいので、ただ食べるより回復量が増える。
-^ffffff_^000000
-重量 : ^7777774^000000
-#
-532#
-バナナの果汁を瓶に詰めた物。飲みやすいので、ただ食べるより回復量が増える。
-^ffffff_^000000
-重量 : ^7777774^000000
-#
-533#
-ブドウの果汁を瓶に詰めた物。飲みやすいので、ただ食べるより回復量が増える。
-^ffffff_^000000
-重量 : ^7777774^000000
-#
-534#
-ニンジンの果汁を瓶に詰めた物。飲みやすいので、ただ食べるより回復量が増える。
-^ffffff_^000000
-重量 : ^7777774^000000
-#
-535#
-食用のカボチャ。^000088少量のHPを回復^000000することができる。
-^ffffff_^000000
-重量 : ^7777772^000000
-#
-536#
-冷たいアイスクリーム。冷たすぎで、たくさん食べたら凍ってしまうかも……
-^ffffff_^000000
-重量 : ^7777778^000000
-#
 601#
 空を飛ぶ獣たちの翼を切り
 呪術をかけた物。
@@ -4228,10 +4052,6 @@ AGI + 3
 10019#
 未鑑定。[拡大鏡]を使って鑑定することができる。
 #
-537#
-ペットが好きな物で作られた食べ物。 人が食べてもいいくらい清潔に作られている。 大抵のペットの主食。
-重量 : ^7777771^000000
-#
 7034#
 惨めに穴が開いてしまった靴下。
 重量 : ^7777771^000000
@@ -4251,14 +4071,6 @@ AGI + 3
 644#
 開けてみると、プレゼントが入っている。 何が入っているかはお楽しみ。
 重量 : ^77777720^000000
-#
-538#
-よく焼いていい香りがするクッキー。 甘くて美味しい味にはたまらない。 食べると体力が回復する。
-重量 : ^7777773^000000
-#
-539#
-大きいケーキを食べやすくした物。 美味しい香りと柔らかなクリームは口の中でしゃーっととろける。 食べると体力が回復する。
-重量 : ^77777710^000000
 #
 1766#
 破魔矢
@@ -4355,14 +4167,6 @@ AGI + 3
 7055#
 動物やペットが排泄した．．．
 重量 : ^7777775^000000
-#
-540#
-ファルコンが主に食べる餌。人が食べてもそれなりにおいしい。
-重量 : ^77777715^000000
-#
-541#
-ペコペコが主に食べる餌。人が食べてもそれなりにおいしい。
-重量 : ^77777715^000000
 #
 1758#
 とても重い矢。低確率で対象をスタン状態にする。
@@ -102152,4 +101956,255 @@ Lv10使用可能
 再使用待機時間 - 0.1秒
 #
 //--------------------------------------------
+//[file end]
+
+
+
+//file start
+
+
+501#
+赤ポーション (Red Potion)
+A potion made from ground Red Herbs. Restores ^00008845^000000 HP.
+^ffffff_^000000
+Weight : ^7777777^000000
+#
+502#
+紅ポーション (Orange Potion)
+A potion made from ground Red and Yellow Herbs. Restores ^000088105^000000 HP.
+^ffffff_^000000
+Weight : ^77777710^000000
+#
+503#
+黄ポーション (Yellow Potion)
+A potion made from ground Yellow Herbs. Restores ^000088175^000000 HP.
+^ffffff_^000000
+Weight : ^77777713^000000
+#
+504#
+白ポーション (White Potion)
+A potion made from ground White Herbs. Restores ^000088325^000000 HP.
+^ffffff_^000000
+Weight : ^77777715^000000
+#
+505#
+青ポーション (Blue Potion)
+A potion made from ground Blue Herbs. Restores ^00008840^000000 SP.
+^ffffff_^000000
+Weight : ^77777715^000000
+#
+506#
+緑ポーション (Green Potion)
+A potion made from ground Green Herbs. Cures ^000088Poison^000000, ^000088Silence^000000, ^000088Blind^000000, ^000088Chaos^000000 and ^000088Hallucination^000000.
+^ffffff_^000000
+Weight : ^7777777^000000
+#
+507#
+赤ハーブ (Red Herb)
+A weak medicinal herb which heals wounds. Restores ^00008818^000000 HP.
+^ffffff_^000000
+Weight : ^7777773^000000
+#
+508#
+黄ハーブ (Yellow Herb)
+A valuable medicinal herb which efficiently heals wounds. Restores ^00008838^000000 HP.
+^ffffff_^000000
+Weight : ^7777775^000000
+#
+509#
+白ハーブ (White Herb)
+A valuable medicinal herb which greatly heals wounds. Restores ^00008875^000000 HP.
+^ffffff_^000000
+Weight : ^7777777^000000
+#
+510#
+青ハーブ (Blue Herb)
+A very valuable medicinal herb whose unique aroma gratifies one's spirit. Restores ^00008815^000000 SP.
+^ffffff_^000000
+Weight : ^7777777^000000
+#
+511#
+緑ハーブ (Green Herb)
+A precious medicinal herb that counteracts all poison. Cures ^000088Poison^000000.
+^ffffff_^000000
+Weight : ^7777773^000000
+#
+512#
+リンゴ (Apple)
+A round, edible fruit that, when eaten once a day, keeps the doctor away. Restores ^00008816^000000 HP.
+^ffffff_^000000
+Weight : ^7777772^000000
+#
+513#
+バナナ (Banana)
+A sweet tasting tropical fruit made famous by its use in slapstick comedy and practical jokes. Restores ^00008817^000000 HP.
+^ffffff_^000000
+Weight : ^7777772^000000
+#
+514#
+ブドウ (Grape)
+Clustered berries with smooth skin that can be fermented to make wine. Restores ^00008810^000000 SP.
+^ffffff_^000000
+Weight : ^7777772^000000
+#
+515#
+ニンジン (Carrot)
+An orange root that is supposedly good for your vision. Despite the Beta Carotene, kids don't care much for it. Restores ^00008818^000000 HP.
+^ffffff_^000000
+Weight : ^7777772^000000
+#
+516#
+いも (Potato)
+A tuber that can be fried, baked, boiled mashed, even eaten. Restores ^00008815^000000 HP.
+^ffffff_^000000
+Weight : ^7777772^000000
+#
+517#
+にく (Meat)
+A leg of meat that's been cooked to near perfection. Restores ^00008870^000000 HP.
+^ffffff_^000000
+Weight : ^77777715^000000
+#
+518#
+ハチ蜜 (Honey)
+A sweet product made by bees that is endowed with yummy flavor and medicinal uses. Restores ^00008870^000000 HP and ^00008820^000000 SP.
+^ffffff_^000000
+Weight : ^77777710^000000
+#
+519#
+ミルク (Milk)
+Pasteurized and bottled cow milk that is chock full of bovine goodness. Restores ^00008827^000000 HP.
+^ffffff_^000000
+Weight : ^7777773^000000
+#
+520#
+ヒナレの葉 (Hinalle Leaflet)
+Leaf cut from a Hinalle Plant which has a cool, fresh scent. It can ease pain and reinvigorate. Restores ^000088175^000000 HP.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+521#
+アロエの葉 (Aloe Leaflet)
+Leaf cut from an Aloe plant. Restores ^000088325^000000 HP.
+^ffffff_^000000
+Weight : ^7777772^000000
+#
+522#
+マステラの実 (Mastela Fruit)
+A shiny, purple fruit picked from the boughs of the Mastela tree. Restores ^000088400^000000 HP.
+^ffffff_^000000
+Weight : ^7777773^000000
+#
+523#
+聖水 (Holy Water)
+Blessed water used in sacred ceremonies. Cures ^000088Curse^000000.
+^ffffff_^000000
+Weight : ^7777773^000000
+#
+525#
+万能薬 (Panacea)
+A mystic remedy for all illnesses.
+―――――――――――――
+Cures ^000088Poison^000000, ^000088Curse^000000, ^000088Silence^000000, ^000088Chaos^000000 and ^000088Blind^000000.
+―――――――――――――
+^ffffff_^000000
+Weight : ^77777710^000000
+#
+526#
+ローヤルゼリー (Royal Jelly)
+Highly nutritious jelly secreted from honeybees that they only feed to larvas and future queens.
+―――――――――――――
+Cures ^000088Poison^000000, ^000088Curse^000000, ^000088Silence^000000, ^000088Chaos^000000 and ^000088Hallucination^000000.
+Restores ^000088325^000000 HP Restores ^00008840^000000 SP
+―――――――――――――
+^ffffff_^000000
+Weight : ^77777715^000000
+#
+528#
+化け物のエサ (Monster's Feed)
+Processed food that is normally fed to monsters. Restores ^00008872^000000 HP.
+^ffffff_^000000
+Weight : ^77777715^000000
+#
+529#
+キャンディ (Candy)
+A confection of sugar, chocolate and other flavorings. Kids love it! Restores ^00008845^000000 HP.
+^ffffff_^000000
+Weight : ^7777773^000000
+#
+530#
+スティックキャンディ (Candy Cane)
+A striped cane of peppermint candy. Sugar daddies love it! Restores ^000088105^000000 HP.
+^ffffff_^000000
+Weight : ^7777774^000000
+#
+531#
+リンゴジュース (Apple Juice)
+Bottled apple juice that's easy to digest. Restores ^00008825^000000 HP.
+^ffffff_^000000
+Weight : ^7777774^000000
+#
+532#
+バナナジュース (Banana Juice)
+Bottled banana juice that's easy to digest. Restores ^00008826^000000 HP.
+^ffffff_^000000
+Weight : ^7777774^000000
+#
+533#
+ブドウジュース (Grape Juice)
+Bottled grape juice that's easy to digest. Restores ^00008815^000000 HP.
+^ffffff_^000000
+Weight : ^7777774^000000
+#
+534#
+ニンジンジュース (Carrot Juice)
+Bottled carrot juice that's easy to digest. Restores ^00008827^000000 HP.
+^ffffff_^000000
+Weight : ^7777774^000000
+#
+535#
+カボチャ (Pumpkin)
+A large orange fruit grown from a vine that's used in baking pies and a few other dishes.
+―――――――――――――
+Restores ^00008819^000000 HP.
+―――――――――――――
+Weight : ^7777772^000000
+#
+536#
+アイスクリーム (Ice Cream)
+Deliciously frosty ice cream that can cause brain freeze if you eat too much too quickly. Restores ^000088105^000000 HP.
+^ffffff_^000000
+Weight : ^7777778^000000
+#
+537#
+ペットフード (Pet Food)
+Sterilized food that has been fortified with vitamins and minerals. Some Cute Pets will feed on this. Restores ^00008850^000000 HP.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+538#
+よく焼いたクッキー (Well Baked Cookie)
+A warm, scrumptious cookie. Restores ^000088160^000000 HP.
+^ffffff_^000000
+Weight : ^7777773^000000
+#
+539#
+ひとくちケーキ (Piece of Cake)
+A sweet slice of cake covered in icing and topped with a cherry. Restores ^000088270^000000 HP.
+^ffffff_^000000
+Weight : ^77777710^000000
+#
+540#
+ファルコンのえさ (Falcon Food)
+Food intended for Falcons, but it's actually tasty enough for humans to eat. Restores ^000088185^000000 HP.
+^ffffff_^000000
+Weight : ^7777775^000000
+#
+541#
+ペコペコのえさ (PecoPeco Food)
+Food manufactured to feed Peco Pecos, but will suffice for desperately hungry humans as well. Restores ^000088325^000000 HP.
+^ffffff_^000000
+Weight : ^7777775^000000
+#
+//-------------------------------------------------
 //[file end]

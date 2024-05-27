@@ -1,56 +1,3 @@
-NV_BASIC#
-基本スキル (Basic Skill)
-^777777基本的なインターフェイスについてのスキルを使う事ができる。^000000
-[Level 1] : 交換ウィンドウ使用
-^777777他のキャラクターとのアイテム交換が可能になる。^000000
-^990000交換をしたいキャラクターにカーソルを合わせ、マウスの右クリックでメニューが表示される。^000000
-[Level 2] : エモーション
-^777777「Alt」+「0」～「9」,Ctrl+「=」「\」「;」キーを利用して感情表現をする。^000000
-[Level 3] : 座る
-^777777その場に座って体力回復を早くする。^000000
-^990000/sit 命令語で使用可能。^000000
-[Level 4] : チャットルーム
-^777777チャットルーム開設ができる。^000000
-[Level 5] : パーティー加入
-^777777他の人が結成したパーティーに加入するのが可能になる。^000000
-[Level 6] : 保管倉庫使用
-^777777カプラ倉庫を使用できるようになる。(アカウントの全キャラ共通・ワールド単位)^000000
-[Level 7] : パーティー結成
-^777777パーティーを結成できるようになる。^000000
-^990000/organize [パーティー名]で使用。^000000
-[Level 9] : 転職可能
-^777777他の職業に転職が可能になる。^000000
-#
-SM_SWORD#
-剣修練 (Sword Mastery)
-系列 : ^000099パッシブ^000000
-内容 : ^777777剣使用時の攻撃力を増加させる。^000000
-[Level 1] : ^777777攻撃力 +4^000000
-[Level 2] : ^777777攻撃力 +8^000000
-[Level 3] : ^777777攻撃力 +12^000000
-[Level 4] : ^777777攻撃力 +16^000000
-[Level 5] : ^777777攻撃力 +20^000000
-[Level 6] : ^777777攻撃力 +24^000000
-[Level 7] : ^777777攻撃力 +28^000000
-[Level 8] : ^777777攻撃力 +32^000000
-[Level 9] : ^777777攻撃力 +36^000000
-[Level 10] : ^777777攻撃力 +40^000000
-#
-SM_TWOHAND#
-両手剣修練 (Two handed sword Mastery)
-系列 : ^000099パッシブ^000000
-内容 : ^777777両手剣使用時の攻撃力を増加させる。^000000
-[Level 1] : ^777777攻撃力 +4^000000
-[Level 2] : ^777777攻撃力 +8^000000
-[Level 3] : ^777777攻撃力 +12^000000
-[Level 4] : ^777777攻撃力 +16^000000
-[Level 5] : ^777777攻撃力 +20^000000
-[Level 6] : ^777777攻撃力 +24^000000
-[Level 7] : ^777777攻撃力 +28^000000
-[Level 8] : ^777777攻撃力 +32^000000
-[Level 9] : ^777777攻撃力 +36^000000
-[Level 10] : ^777777攻撃力 +40^000000
-#
 SM_RECOVERY#
 HP回復力向上 (Increase recuperative power)
 系列 : ^000099パッシブ^000000
@@ -1141,12 +1088,6 @@ AS_SPLASHER#
 対象 : ^777777敵^000000
 内容 : ^777777毒状態の敵を爆破させて、周りに毒を撒く。敵のHPが3/4以下になると使用できる。レッドジェムストーンが1個必要。^000000
 #
-NV_FIRSTAID#
-応急手当 (First Aid)
-系列 : ^777777回復^000000
-対象 : ^777777自分^000000
-内容 : ^777777SPを 3 消耗してHPを 5 回復する。^000000
-#
 SM_MOVINGRECOVERY#
 移動時HP回復
 系列 : ^000099パッシブ^000000
@@ -1181,12 +1122,6 @@ MG_ENERGYCOAT#
 系列 : ^777777補助^000000
 対象 : ^777777自分^000000
 内容 : ^777777精神エネルギーで身を包んで、敵からの被害を減らす。現在のSPが多ければ多いほど被害が減らせるが、一度攻撃されるたびにもっと多くのSPを消耗する。^000000
-#
-NV_TRICKDEAD#
-死んだふり
-系列 : ^777777補助^000000
-対象 : ^777777自分^000000
-内容 : ^777777死んだふりをして敵からの攻撃をやりすごす。もう一度使うと元に戻る。^000000
 #
 SM_FATALBLOW#
 急所攻撃
@@ -4507,6 +4442,75 @@ ALL_WEWISH#
 #
 GM_SANDMAN#
 Goodnight, Sweety
-Skill Form: ^339900Supportive ^000000
+Skill Form: ^777777Supportive ^000000
 Description: ^777777Make the enemy fall asleep by singing an irresistible lullaby. ^000000
+#
+NV_BASIC#
+基本スキル (Basic Skill)
+^777777Enables the use of Basic Interface Skills. ^000000
+[Level 1] : Enables Trading
+^777777Allows the trading of items with other character.
+^990000Right click on a character to initiate. ^000000
+[Level 2] : Enables Emotions
+^777777Alt+(0~9) and Ctrl+(1,-,=.)
+Alt+L opens additional
+Emotion icons. ^000000
+[Level 3] : Enables Sitting
+^777777Sitting doubles HP and SP regeneration speed.
+^990000Press the Insert key or type /sit. ^000000
+[Level 4] : Enables Chat Room Creation
+^777777Alt+C to open a Chat Room or click the Chat button in the
+Basic Information Window. ^000000
+[Level 5] : Join a Party
+^777777Character can join a party. ^000000
+[Level 6] : Enables Use of Kafra Storage
+^777777Allows use of Kafra Storage. ^000000
+[Level 7] : Organize a Party
+^777777Set party options in the Party Window (Alt+Z). ^000000
+^990000Create a party by typing /organize ''Party Name'' ^000000
+[Level 9] : Enables Change to First Job Class
+^777777Qualifies character for change from Novice to one of the
+First classes. ^000000
+#
+NV_FIRSTAID#
+応急手当 (First Aid)
+Skill Form : ^777777Supportive^000000
+Target : ^777777Player^000000
+Description: ^777777Uses 3 SP to restore 5 HP. ^000000
+#
+NV_TRICKDEAD#
+死んだふり (Play Dead)
+Skill Form : ^777777Supportive^000000
+Target : ^777777Player^000000
+Description: ^777777Feign death to avoid the menace of nearby enemies. The Play Dead status is cancelled by casting this skill again. ^000000
+#
+SM_SWORD#
+剣修練 (Sword Mastery)
+Skill Form: ^777777Passive ^000000
+Description: ^777777Increases damage with One-Handed Sword and Dagger class weapon. ^000000
+[Level 1] : ^777777 Damage +4 ^000000
+[Level 2] : ^777777 Damage +8 ^000000
+[Level 3] : ^777777 Damage +12 ^000000
+[Level 4] : ^777777 Damage +16 ^000000
+[Level 5] : ^777777 Damage +20 ^000000
+[Level 6] : ^777777 Damage +24 ^000000
+[Level 7] : ^777777 Damage +28 ^000000
+[Level 8] : ^777777 Damage +32 ^000000
+[Level 9] : ^777777 Damage +36 ^000000
+[Level 10] : ^777777 Damage +40 ^000000
+#
+SM_TWOHAND#
+両手剣修練 (Two handed sword Mastery)
+Skill Form: ^6666CCPassive ^000000
+Description: ^777777Increases damage with Two-Handed Sword class weapon. ^000000
+[Level 1] : ^777777 Damage +4 ^000000
+[Level 2] : ^777777 Damage +8 ^000000
+[Level 3] : ^777777 Damage +12 ^000000
+[Level 4] : ^777777 Damage +16 ^000000
+[Level 5] : ^777777 Damage +20 ^000000
+[Level 6] : ^777777 Damage +24 ^000000
+[Level 7] : ^777777 Damage +28 ^000000
+[Level 8] : ^777777 Damage +32 ^000000
+[Level 9] : ^777777 Damage +36 ^000000
+[Level 10] : ^777777 Damage +40 ^000000
 #
