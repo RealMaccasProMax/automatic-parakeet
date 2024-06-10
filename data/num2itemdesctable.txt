@@ -4077,25 +4077,6 @@ AGI + 3
 系列 : ^777777矢^000000    攻撃 : ^77777750^000000
 重量 : ^7777770.3^000000      属性 : ^777777無^000000
 #
-542#
-ひな祭りにみんなで
-食べるおやつ。
-甘くてサクサクして
-とても美味しい。
-―――――――――――――
-^000088HPを365ほど回復^000000する
-―――――――――――――
-重量 : ^7777771^000000
-#
-543#
-ひな祭りに飾る三色のお餅。
-赤白緑の色が鮮やかで、
-つい食べたくなる。
-―――――――――――――
-^000088HPを365ほど回復^000000する
-―――――――――――――
-重量 : ^7777771^000000
-#
 7038#
 白くて丸く巻かれている毛糸
 重量 : ^7777771^000000
@@ -4249,10 +4230,6 @@ Lv 40以上のキャラクターが
 使用できる。
 ―――――――――――――
 重量 : ^77777715^000000
-#
-544#
-とても新鮮で口に入れた瞬間に何とも言えない味覚が広がる食べ物。
-重量 : ^7777773^000000
 #
 659#
 誰にも知られていない少女の心が込められているようだ。モンスターボンゴンが好む。
@@ -4855,36 +4832,6 @@ Lv 40以上のキャラクターが
 ^ffffff_^000000
 重量 : ^7777771^000000
 #
-545#
-赤ポーションと同じ効能だがすごく軽い。
-^ffffff_^000000
-重量 : ^7777772^000000
-#
-546#
-黄ポーションと同じ効能だがすごく軽い。
-^ffffff_^000000
-重量 : ^7777773^000000
-#
-547#
-白ポーションと同じ効能だがすごく軽い。
-^ffffff_^000000
-重量 : ^7777775^000000
-#
-548#
-SPを回復してくれる独特の香りが特徴的な食べ物。
-^ffffff_^000000
-重量 : ^7777775^000000
-#
-549#
-高い回復力を持っているが、飲み物と一緒にゆっくり食べなければのどに詰まる。
-^ffffff_^000000
-重量 : ^7777778^000000
-#
-550#
-米が原料のため、たくさん食べても太らない。ダイエットしたい女性に大人気だ。
-^ffffff_^000000
-重量 : ^7777771^000000
-#
 660#
 どこで使うのかまったくわからないろうそく。モンスタージルタスに使ってみよう。
 種類 : ^777777テイミングアイテム^000000
@@ -5018,27 +4965,11 @@ SPを回復してくれる独特の香りが特徴的な食べ物。
 ^ffffff_^000000
 重量 : ^7777771^000000
 #
-551#
-おさしみや貝などを酢でまぶしたご飯にのせて食べる東方の国の食べ物。 ほどよい酸味があってとてもおいしい。
-^ffffff_^000000
-重量 : ^7777775^000000
-#
 
 19993#
 // ---- コンロン関連追加アイテム - 01 -----------
 #
 
-552#
-ある国で、断食をしたために弱ってしまった身を力づけるための食べ物。 お腹を膨らますというよりは、徐々に体力を回復させる効果がある。
-^ffffff_^000000
-重量 : ^7777771^000000
-
-#
-553#
-ショウパオズという、東方の国で昔から好んで食べられている饅頭。 中には肉がたっぷりつまっていて、温かくておいしい。 最近では肉の他にも様々な具を入れることがあり、食べる者を楽しませてくれる。^ffffff_^000000
-
-重量 : ^7777775^000000
-#
 7161#
 黒い熊の皮を剥いだもので、暖かそうに見えるがとてもひどい臭いがする。
 ^ffffff_^000000
@@ -5153,11 +5084,6 @@ SPを回復してくれる独特の香りが特徴的な食べ物。
 夜空に広がる星たちの煌きをそのまま閉じ込めたような宝石。 その光の中には、古代の文字が浮かび上がって見えることがあるらしい。
 ^ffffff_^000000
 重量 : ^7777770^000000
-#
-555#
-米を蒸して作った食べ物で、混ぜる物によって様々な味を楽しめる。
-^ffffff_^000000
-重量 : ^7777772^000000
 #
 7179#
 恵まれない人々に、寄付を行ったことの印。 トリスタン3世の署名が入っている。
@@ -31807,23 +31733,6 @@ Luk + 10
 未鑑定。[拡大鏡]を使って鑑定することができる。
 #
 //------------------------------------------------
-554#
-もち米を炊いて、
-杵と臼を使ってついたものを
-少しずつ切り取って
-焼いた食べ物。
-東方の国では冬になると
-ご飯やお菓子のかわりに
-好んで食べる。
-―――――――――――――
-^000088HPを125ほど回復^000000する
-^000088SPを22ほど回復^000000する
-―――――――――――――
-一定確率で
-スタン・暗黒状態になる
-―――――――――――――
-重量 : ^7777778^000000
-#
 669#
 新年のお祝いに
 食べる汁もの。
@@ -102205,6 +102114,107 @@ Weight : ^7777775^000000
 Food manufactured to feed Peco Pecos, but will suffice for desperately hungry humans as well. Restores ^000088325^000000 HP.
 ^ffffff_^000000
 Weight : ^7777775^000000
+#
+542#
+ひなあられ (Festive Cookie)
+A sweet and crunchy snack usually available during certain times in Japan.
+^ffffff_^000000
+―――――――――――――
+Restores ^000088325^000000 HP.
+―――――――――――――
+Weight : ^7777777^000000
+#
+543#
+菱餅 (Festive Rainbow Cake)
+Cake made of rice decorated in 3 colors, red, white and green.
+^ffffff_^000000
+―――――――――――――
+Restores ^000088325^000000 HP.
+―――――――――――――
+Weight : ^7777777^000000
+#
+544#
+おさしみ (Raw Fish)
+A raw, fresh fish. Restores ^00008825^000000 HP.
+^ffffff_^000000
+Weight : ^7777773^000000
+#
+545#
+レッドスリムポーション (Red Slim Potion)
+A condensed Red Potion that weighs significantly less. Restores ^00008845^000000 HP.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+546#
+イエロースリムポーション (Yellow Slim Potion)
+A condensed yellow potion that weighs significantly less. Restores ^000088175^000000 HP.
+^ffffff_^000000
+Weight : ^7777772^000000
+#
+547#
+ホワイトスリムポーション (White Slim Potion)
+A condensed white potion that weighs significantly less. Restores ^000088325^000000 HP.
+^ffffff_^000000
+Weight : ^7777772^000000
+#
+548#
+チーズ (Cheese)
+A palatable food with a unique scent. Restores ^00008810^000000 SP.
+^ffffff_^000000
+Weight : ^7777775^000000
+#
+549#
+おいしい焼きいも (Yam)
+A kind of plant root used as food. It's advised to eat this slowly with water, or to bake it beforehand. Restores ^00008850^000000 HP.
+^ffffff_^000000
+Weight : ^7777778^000000
+#
+550#
+お米のお菓子 (Rice Cake)
+A snack made out of rice that doesn't contain any fat. Some women love having this snack. Restores ^00008810^000000 HP.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+551#
+お寿司 (Sushi)
+An Eastern delicacy, in which various types of raw fish is placed on top of rice. Restores ^00008850^000000 HP.
+The rice is marinated in vinegar then wrapped in dried seaweed.
+^ffffff_^000000
+Weight : ^7777775^000000
+#
+552#
+KETUPAT
+A type of food that is usually eaten by people in a country after their abstinence ceremony. Restores ^00008870^000000 HP and ^00008820^000000 SP.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+553#
+小包子 (Bao)
+A type of dough that is filled with ground meat, usually served hot.
+People living in eastern countries have enjoyed eating this food for a long time. Restores ^00008835^000000 HP.
+^ffffff_^000000
+Weight : ^7777775^000000
+#
+554#
+おもち (Mochi)
+A tasty rice cake made for celebrating the Lunar New Year.
+^ffffff_^000000
+―――――――――――――
+Restores ^000088105^000000 HP.
+―――――――――――――
+Weight : ^7777778^000000
+#
+555#
+おはぎ (Traditional Rice Cake)
+A type of food that is made of rice powder. There are many recipes to make this food, all of them absolutely delicious. Restores ^000088105^000000 HP.
+^ffffff_^000000
+Weight : ^7777772^000000
+#
+556#
+ガレットック (Rice Cake Stick)
+A thin stick of rice cake which is moist and sticky. Restores ^00008820^000000 HP.
+^ffffff_^000000
+Weight : ^7777771^000000
 #
 //-------------------------------------------------
 //[file end]

@@ -1,34 +1,3 @@
-SM_RECOVERY#
-HP‰ñ•œ—ÍŒüã (Increase recuperative power)
-Œn—ñ : ^000099ƒpƒbƒVƒu^000000
-“à—e : ^777777ƒŒƒxƒ‹‚²‚Æ‚ÉÃ~ó‘Ô‚Ì‘Ì—Í‰ñ•œ—Ê‚ğŒüã‚³‚¹‚éBÅ‘åHP‚ª‘½‚¢‚Ù‚ÇA‰ñ•œ—Ê‚ªŒüã‚·‚éB‚Ü‚½A‰ñ•œƒAƒCƒeƒ€‚Ì‰ñ•œ—Ê‚ğ‘‰Á‚³‚¹‚éŒø‰Ê‚à‚ ‚éB^000000
-[Level 1] : ^77777710•b–ˆ HP +5^000000
-[Level 2] : ^77777710•b–ˆ HP +10^000000
-[Level 3] : ^77777710•b–ˆ HP +15^000000
-[Level 4] : ^77777710•b–ˆ HP +20^000000
-[Level 5] : ^77777710•b–ˆ HP +25^000000
-[Level 6] : ^77777710•b–ˆ HP +30^000000
-[Level 7] : ^77777710•b–ˆ HP +35^000000
-[Level 8] : ^77777710•b–ˆ HP +40^000000
-[Level 9] : ^77777710•b–ˆ HP +45^000000
-[Level 10] : ^77777710•b–ˆ HP +50^000000
-#
-SM_BASH#
-ƒoƒbƒVƒ… (Bash)
-Œn—ñ : ^777777UŒ‚^000000
-‘ÎÛ : ^777777“G^000000
-“à—e : ^777777w’è‚µ‚½“G‚ğ‹­‚­UŒ‚‚·‚éB^000000
-[Level 1] : ^777777UŒ‚—Í 130%^000000
-[Level 2] : ^777777UŒ‚—Í 160%^000000
-[Level 3] : ^777777UŒ‚—Í 190%^000000
-[Level 4] : ^777777UŒ‚—Í 220%^000000
-[Level 5] : ^777777UŒ‚—Í 250%^000000
-[Level 6] : ^777777UŒ‚—Í 280%^000000
-[Level 7] : ^777777UŒ‚—Í 310%^000000
-[Level 8] : ^777777UŒ‚—Í 340%^000000
-[Level 9] : ^777777UŒ‚—Í 370%^000000
-[Level 10] : ^777777UŒ‚—Í 400%^000000
-#
 SM_MAGNUM#
 ƒ}ƒOƒiƒ€ƒuƒŒƒCƒN (Magnum Break)
 Œn—ñ : ^777777UŒ‚^bb0000(‰Î‘®«)^000000
@@ -4501,7 +4470,7 @@ Description: ^777777Increases damage with One-Handed Sword and Dagger class weap
 #
 SM_TWOHAND#
 —¼èŒ•C—û (Two handed sword Mastery)
-Skill Form: ^6666CCPassive ^000000
+Skill Form: ^777777Passive ^000000
 Description: ^777777Increases damage with Two-Handed Sword class weapon. ^000000
 [Level 1] : ^777777 Damage +4 ^000000
 [Level 2] : ^777777 Damage +8 ^000000
@@ -4513,4 +4482,34 @@ Description: ^777777Increases damage with Two-Handed Sword class weapon. ^000000
 [Level 8] : ^777777 Damage +32 ^000000
 [Level 9] : ^777777 Damage +36 ^000000
 [Level 10] : ^777777 Damage +40 ^000000
+#
+SM_RECOVERY#
+HP‰ñ•œ—ÍŒüã (Increase recuperative power)
+Skill Form: ^777777Passive ^000000
+Description: ^777777Enhances natural HP regeneration. MaxHP affects how much HP restoration is increased by this skill. ^000000
+[Level 1] : ^77777710•b–ˆ HP +5^000000
+[Level 2] : ^77777710•b–ˆ HP +10^000000
+[Level 3] : ^77777710•b–ˆ HP +15^000000
+[Level 4] : ^77777710•b–ˆ HP +20^000000
+[Level 5] : ^77777710•b–ˆ HP +25^000000
+[Level 6] : ^77777710•b–ˆ HP +30^000000
+[Level 7] : ^77777710•b–ˆ HP +35^000000
+[Level 8] : ^77777710•b–ˆ HP +40^000000
+[Level 9] : ^77777710•b–ˆ HP +45^000000
+[Level 10] : ^77777710•b–ˆ HP +50^000000
+#
+SM_BASH#
+ƒoƒbƒVƒ… (Bash)
+Skill Form: ^777777Physical attack ^000000
+Description: ^777777Hits an enemy with crushing force. If the Fatal Blow skill is learned, Bash will have an added Stun effect at levels 6 and higher. ^000000
+[Level 1] : ^777777 130% damage ^000000
+[Level 2] : ^777777 160% damage ^000000
+[Level 3] : ^777777 190% damage ^000000
+[Level 4] : ^777777 220% damage ^000000
+[Level 5] : ^777777 250% damage ^000000
+[Level 6] : ^777777 280% damage ^000000
+[Level 7] : ^777777 310% damage ^000000
+[Level 8] : ^777777 340% damage ^000000
+[Level 9] : ^777777 370% damage ^000000
+[Level 10] : ^777777 400% damage ^000000
 #
